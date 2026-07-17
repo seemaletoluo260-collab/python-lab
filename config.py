@@ -1,1 +1,2 @@
 
+DEFAULT_NAME = "Student"
